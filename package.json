@@ -1,0 +1,35 @@
+{
+  "name": "raiku",
+  "version": "0.0.1",
+  "description": "Haiku spotting slackbot",
+  "main": "lib/raiku.js",
+  "scripts": {
+    "start": "node bin/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Weetbix/raiku.git"
+  },
+  "keywords": [
+    "raiku",
+    "robot",
+    "slack",
+    "slackbot",
+    "haiku",
+    "poem"
+  ],
+  "author": "John Hannagan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Weetbix/raiku/issues"
+  },
+  "homepage": "https://github.com/Weetbix/raiku#readme",
+  "engines": {
+    "node": "0.12.7"
+  },
+  "dependencies": {
+    "async": "^1.5.0",
+    "q": "^1.4.1",
+    "slackbots": "^0.5.0"
+  }
+}
