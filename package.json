@@ -1,6 +1,6 @@
 {
   "name": "raiku",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Haiku spotting slackbot",
   "main": "lib/raiku.js",
   "scripts": {
