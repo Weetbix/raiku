@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/Weetbix/raiku#readme",
   "engines": {
-    "node": "0.12.7"
+    "node": "6.2.1"
   },
   "dependencies": {
     "haikufy": "0.0.1",
